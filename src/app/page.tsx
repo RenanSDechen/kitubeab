@@ -46,8 +46,8 @@ export default function Home() {
 
 
 
-        <main className="main">
-            <section className="home section" id="home">
+        <main className="overflow-hidden">
+            <section className="bg-gradient-to-tr from-gray-800 to-gray-900 pb-0  pt-18 pb-8" id="home">
                <div className="home__container container grid">
                     <div className="home__data">
                         <h1 className="home__title">
